@@ -1,24 +1,10 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-
-#define ll long long
-#define nl "\n" 
-
-void solve(int t) {
-
-    int n;
-    cin >> n;
-
-    cout << "AMith" << endl;
-}
-
-int main() {
-
-ios:: sync_with_stdio(false);
-cin.tie(nullptr);
-
-    int t;
-    cin >> t;
-    for(int i = 0; i < t; i++)
-        solve(t);
+#define int long long
+int32_t main()
+{
+   ios_base::sync_with_stdio(false);
+   cin.tie(NULL);
+    cout<<"Amith Barua"<<endl;
+    return 0;
 }
